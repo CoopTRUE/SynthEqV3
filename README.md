@@ -1,4 +1,4 @@
-# Sveltekit Fullstack
+# SynthEqV3
 
 A fullstack Sveltekit template with tRPC, @auth/sveltekit, TanStack Query, and TailwindCSS.
 
