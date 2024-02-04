@@ -6,8 +6,8 @@
 </script>
 
 <svelte:head>
-  <title>Home | Sveltekit</title>
-  <meta name="description" content="" />
+  <title>Home | SynthEQ</title>
+  <meta name="description" content="SynthEQ is a decentralized exchange for synthetic equities." />
 </svelte:head>
 
 <main>
